@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Force Group: Toggle",
+        "command": "force_group_toggle"
+    },
+    {
+        "caption": "Preferences: ForceGroup Settings",
+        "command": "edit_settings",
+        "args": {
+            "base_file": "${packages}/ForceGroup/ForceGroup.sublime-settings",
+            "default": "// Settings in here override those in \"ForceGroup/ForceGroup.sublime-settings\"\n{\n\t$0\n}\n"
+        }
+    }
+]

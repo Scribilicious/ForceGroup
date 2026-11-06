@@ -1,0 +1,13 @@
+{
+    // Set to false to temporarily disable the plugin.
+    "enabled": true,
+
+    // Group (pane) that files are forced into. 1 = first group.
+    // If the layout has fewer groups, the last group is used.
+    "group": 1,
+
+    // true: a file is only forced into the group the first time it is shown,
+    // afterwards you can drag it to another group.
+    // false: files are moved back whenever they are activated.
+    "allow_manual_move": true
+}

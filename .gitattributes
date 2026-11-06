@@ -1,0 +1,4 @@
+# Files excluded from Package Control / git archive downloads
+.gitattributes export-ignore
+.gitignore export-ignore
+project.sublime-project export-ignore
